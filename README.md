@@ -72,10 +72,6 @@ PharmaHub is a modern solution for managing medical shops, designed for both adm
 
 ---
 
-## **Image Hover Effect:**
-To add an interactive hover effect on the images, you can add the following CSS to your README:
-
-```html
 <style>
     img:hover {
         transform: scale(1.1);
