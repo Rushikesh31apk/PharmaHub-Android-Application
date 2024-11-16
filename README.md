@@ -56,4 +56,4 @@ PharmaHub is a modern solution for managing medical shops, designed for both adm
 
 ![Admin App Screenshot](login_logo.png"Admin App Interface")
 
-![Alt text](image-path "Optional Title")
+![Alt text](G:\AndroidPro\PharmaHub\app\src\main\res\drawable\login_logo.png "Optional Title")
