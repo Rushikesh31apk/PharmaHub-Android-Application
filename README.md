@@ -72,11 +72,4 @@ PharmaHub is a modern solution for managing medical shops, designed for both adm
 
 ---
 
-<style>
-    @media (max-width: 768px) {
-        img {
-            width: 100%;
-            height: auto;
-        }
-    }
-</style>
+
