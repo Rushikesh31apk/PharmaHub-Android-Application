@@ -54,16 +54,4 @@ PharmaHub is a modern solution for managing medical shops, designed for both adm
 
 ---
 
-## **How to Run**
-
-### **Prerequisites:**
-1. Android Studio (for Admin and User apps).
-2. Python 3.10+ (for Flask server).
-3. SQLite (pre-installed with Python).
-
-### **Steps:**
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/YourUsername/PharmaHub.git
-   cd PharmaHub
+![Alt text](image-path "Optional Title")
