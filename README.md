@@ -56,15 +56,15 @@ PharmaHub is a modern solution for managing medical shops, designed for both adm
 
 ### **App Screens:**
 ---
-<div style="display: flex; gap: 20px;">
-    <img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/1.jpg" alt="Login Logo" width="100" height="200">
-    <img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/2.jpg" alt="Login Logo" width="100" height="200">
-    <img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/3.jpg" alt="Login Logo" width="100" height="200">
-    <img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/4.jpg" alt="Login Logo" width="100" height="200">
-    <img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/6.jpg" alt="Login Logo" width="100" height="200">
-    <img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/7.jpg" alt="Login Logo" width="100" height="200">
-    <img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/8.jpg" alt="Login Logo" width="100" height="200">
-    <img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/9.jpg" alt="Login Logo" width="100" height="200">
+<div style="display: flex; gap: 300px;">
+    <img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/1.jpg" alt="Login Logo" width="120" height="220">
+    <img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/2.jpg" alt="Login Logo" width="120" height="220">
+    <img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/3.jpg" alt="Login Logo" width="120" height="220">
+    <img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/4.jpg" alt="Login Logo" width="120" height="220">
+    <img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/6.jpg" alt="Login Logo" width="120" height="220">
+    <img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/7.jpg" alt="Login Logo" width="120" height="220">
+    <img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/8.jpg" alt="Login Logo" width="120" height="220">
+    <img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/9.jpg" alt="Login Logo" width="120" height="220">
 </div>
 ---
 
