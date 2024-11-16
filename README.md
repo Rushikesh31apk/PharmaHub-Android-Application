@@ -60,16 +60,15 @@ PharmaHub is a modern solution for managing medical shops, designed for both adm
 
 ## **App Screens:**
 <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
-    <img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/1.jpg" alt="Login Logo" width="200" height="350" style="border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
-    <img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/2.jpg" alt="Login Logo" width="200" height="350" style="border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
-    <img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/3.jpg" alt="Login Logo" width="200" height="350" style="border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
-    <img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/info.jpg" alt="Login Logo" width="200" height="350" style="border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
-    <img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/4.jpg" alt="Login Logo" width="200" height="350" style="border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
-    <img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/6.jpg" alt="Login Logo" width="200" height="350" style="border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
-    <img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/7.jpg" alt="Login Logo" width="200" height="350" style="border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
-    <img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/9.jpg" alt="Login Logo" width="200" height="350" style="border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
-</div>
-
+    <img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/1.jpg" alt="Login Logo" width="200" height="350" style="border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); border: 3px solid #4CAF50; transition: transform 0.3s;">
+    <img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/2.jpg" alt="Login Logo" width="200" height="350" style="border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); border: 3px solid #4CAF50; transition: transform 0.3s;">
+    <img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/3.jpg" alt="Login Logo" width="200" height="350" style="border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); border: 3px solid #4CAF50; transition: transform 0.3s;">
+    <img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/info.jpg" alt="Login Logo" width="200" height="350" style="border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); border: 3px solid #4CAF50; transition: transform 0.3s;">
+    <img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/4.jpg" alt="Login Logo" width="200" height="350" style="border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); border: 3px solid #4CAF50; transition: transform 0.3s;">
+    <img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/6.jpg" alt="Login Logo" width="200" height="350" style="border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); border: 3px solid #4CAF50; transition: transform 0.3s;">
+    <img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/7.jpg" alt="Login Logo" width="200" height="350" style="border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); border: 3px solid #4CAF50; transition: transform 0.3s;">
+    <img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/9.jpg" alt="Login Logo" width="200" height="350" style="border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); border: 3px solid #4CAF50; transition: transform 0.3s;">
+</div
 ---
 
 
