@@ -1,7 +1,8 @@
 # **PharmaHub - Android Application**
 <div style="display: flex; gap: 30px;">
-    <img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/login_logo.png" alt="Login Logo" width="30" height="50">
+    <img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/login_logo.png" alt="Login Logo" width="50" height="100">
 </div>
+
 ## **Overview**
 PharmaHub is a modern solution for managing medical shops, designed for both administrators and users. The application leverages Kotlin Jetpack Compose for building dynamic and intuitive interfaces, SQLite for local data storage, and Python Flask for creating APIs to facilitate seamless interaction with a central server.
 
