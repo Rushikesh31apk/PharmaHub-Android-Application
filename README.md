@@ -1,6 +1,7 @@
 # **PharmaHub - Android Application**
-<div style="display: flex; gap: 30px">
-    <t><img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/bannerslide3.jpg" alt="Login Logo" width="1000" height="150">
+
+<div style="text-align: center;">
+    <img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/bannerslide3.jpg" alt="Login Logo" width="1000" height="150" style="border-radius: 15px;">
 </div>
 
 ## **Overview**
@@ -14,7 +15,7 @@ PharmaHub is a modern solution for managing medical shops, designed for both adm
 - **Medicine Management:** Add, update, or remove medicines in the inventory.
 - **Stock Tracking:** Monitor stock levels for each medicine.
 - **User Management:** Approve or block users to control access to the app.
-  
+
 ### **User App**
 - **Medicine Browsing:** View a complete list of available medicines with details.
 - **Order Management:** Place orders, view prices, and track their status.
@@ -31,10 +32,10 @@ PharmaHub is a modern solution for managing medical shops, designed for both adm
 
 ### **Frontend:**
 - **Kotlin Jetpack Compose:** For building intuitive and responsive user interfaces.
-  
+
 ### **Backend:**
 - **Python Flask:** For API development and server-side logic.
-  
+
 ### **Database:**
 - **SQLite:** For local data storage in both apps.
 - **Central Database:** Managed via Flask for syncing user and medicine data.
@@ -57,21 +58,26 @@ PharmaHub is a modern solution for managing medical shops, designed for both adm
 
 ---
 
-### **App Screens:**
----
-<div style="display: flex; gap: 300px;">
-    <img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/1.jpg" alt="Login Logo" width="120" height="220">
-    <img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/2.jpg" alt="Login Logo" width="120" height="220">
-    <img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/3.jpg" alt="Login Logo" width="120" height="220">
-     <img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/info.jpg" alt="Login Logo" width="120" height="220">
-    <img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/4.jpg" alt="Login Logo" width="120" height="220">
-    <img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/6.jpg" alt="Login Logo" width="120" height="220">
-    <img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/7.jpg" alt="Login Logo" width="120" height="220">
-    <img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/9.jpg" alt="Login Logo" width="120" height="220">
+## **App Screens:**
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+    <img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/1.jpg" alt="Login Logo" width="200" height="350" style="border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
+    <img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/2.jpg" alt="Login Logo" width="200" height="350" style="border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
+    <img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/3.jpg" alt="Login Logo" width="200" height="350" style="border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
+    <img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/info.jpg" alt="Login Logo" width="200" height="350" style="border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
+    <img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/4.jpg" alt="Login Logo" width="200" height="350" style="border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
+    <img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/6.jpg" alt="Login Logo" width="200" height="350" style="border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
+    <img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/7.jpg" alt="Login Logo" width="200" height="350" style="border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
+    <img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/9.jpg" alt="Login Logo" width="200" height="350" style="border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s;">
 </div>
 
 ---
-###
 
+## **Image Hover Effect:**
+To add an interactive hover effect on the images, you can add the following CSS to your README:
 
-
+```html
+<style>
+    img:hover {
+        transform: scale(1.1);
+    }
+</style>
