@@ -55,6 +55,6 @@ PharmaHub is a modern solution for managing medical shops, designed for both adm
 ---
 
 
-<img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/1.jpg" alt="Login Logo" width="300" height="200">
+<img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/1.jpg" alt="Login Logo" width="300" height="550">
 
 
