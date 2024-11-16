@@ -1,6 +1,6 @@
 # **PharmaHub - Android Application**
 <div style="display: flex; gap: 30px;">
-    <img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/login_logo.png" alt="Login Logo" width="100" height="100">
+    <img src="https://github.com/Rushikesh31apk/PharmaHub-Android-Application/blob/main/app/src/main/res/drawable/bannerslide3.jpg" alt="Login Logo" width="500" height="100">
 </div>
 
 ## **Overview**
