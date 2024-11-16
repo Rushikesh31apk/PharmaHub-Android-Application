@@ -1,11 +1,69 @@
-# PharmaHub-Android-Application
-<h2>Details:</h2>
- Kotlin Jetpack Compose for building the interface of both the admin and user apps. SQLite is used to store the user details, list of
- medicines, stock details, and purchase history locally. Python Flask for creating APIs that allow the apps to interact with the server and
- manage data.
- Admin App: The admin app is used to manage all medicines in the store, including adding new medicines, updating stock levels, and
- removing outdated items. It tracks the stock for each medicine and also approves users to use the medical shop app.
- User App: Users can browse through the complete list of medicines, view their details, and check availability. They can place orders,
- view prices, and track their orders.
- Flask API: The Flask API connects both apps to a central database and handles tasks like Register users, Login Users, Block Users,
- Approve Users, medicine searches, and inventory updates.
+# **PharmaHub - Android Application**
+
+## **Overview**
+PharmaHub is a modern solution for managing medical shops, designed for both administrators and users. The application leverages Kotlin Jetpack Compose for building dynamic and intuitive interfaces, SQLite for local data storage, and Python Flask for creating APIs to facilitate seamless interaction with a central server.
+
+---
+
+## **Features**
+
+### **Admin App**
+- **Medicine Management:** Add, update, or remove medicines in the inventory.
+- **Stock Tracking:** Monitor stock levels for each medicine.
+- **User Management:** Approve or block users to control access to the app.
+  
+### **User App**
+- **Medicine Browsing:** View a complete list of available medicines with details.
+- **Order Management:** Place orders, view prices, and track their status.
+- **Availability Check:** Check real-time availability of medicines.
+
+### **Flask API**
+- **User Authentication:** Register, login, and manage user approvals.
+- **Inventory Management:** Search for medicines and update stock levels.
+- **Centralized Database:** Maintain consistency and reliability across the apps.
+
+---
+
+## **Technologies Used**
+
+### **Frontend:**
+- **Kotlin Jetpack Compose:** For building intuitive and responsive user interfaces.
+  
+### **Backend:**
+- **Python Flask:** For API development and server-side logic.
+  
+### **Database:**
+- **SQLite:** For local data storage in both apps.
+- **Central Database:** Managed via Flask for syncing user and medicine data.
+
+---
+
+## **Project Structure**
+
+### **Admin App:**
+- Manage medicines, stock, and user approvals.
+- Built for efficiency in day-to-day shop management.
+
+### **User App:**
+- Seamless experience for browsing and ordering medicines.
+- Designed for intuitive navigation and functionality.
+
+### **Flask API:**
+- Acts as a bridge between the apps and the server.
+- Handles authentication, inventory, and user-related tasks.
+
+---
+
+## **How to Run**
+
+### **Prerequisites:**
+1. Android Studio (for Admin and User apps).
+2. Python 3.10+ (for Flask server).
+3. SQLite (pre-installed with Python).
+
+### **Steps:**
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/YourUsername/PharmaHub.git
+   cd PharmaHub
